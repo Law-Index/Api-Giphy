@@ -1,0 +1,15 @@
+div {
+    width: 600px;
+    margin-top: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+div input {
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px 15px;
+    border-start-start-radius: 30px;
+    border-start-end-radius: 30px;
+}
